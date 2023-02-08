@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### Activities
 
-[![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1s75etub1s5n7zyw6vligaa6b&count=3&width=450)
+[![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1s75etub1s5n7zyw6vligaa6b&count=3&width=400)
