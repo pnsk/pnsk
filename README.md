@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 ### My friends
 
-![](./media/laptop3.jpg)
+<img width="682" alt="Screenshot 2023-09-01 at 3 48 12 PM" src="./media/laptop3.jpg">
+
