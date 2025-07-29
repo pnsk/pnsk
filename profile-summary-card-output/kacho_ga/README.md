@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/kacho_ga/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/kacho_ga/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
 ```
 
     

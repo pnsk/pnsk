@@ -15,20 +15,10 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./4-productive-time.svg)
 
 ```
-![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/aura/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/aura/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/pnsk/pnsk/main/profile-summary-card-output/aura/4-productive-time.svg)
 ```
 
     
